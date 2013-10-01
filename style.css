@@ -1,0 +1,27 @@
+/* Add your CSS below! */
+*{
+    font-family:Verdana;
+}
+#header{
+    box-shadow:10px 10px 5px #888;
+}
+input[type=text]{
+    border-radius:5px;
+}
+body{
+    background:url("http://25.media.tumblr.com/tumblr_m5mdry2lA01rrpm57o1_r1_1280.jpg");
+    background-size:100%;
+}
+div{
+    background-color:#808080;
+    border-radius:15px;
+    box-shadow:10px 10px 5px #888;
+    width:200px;
+    color:#FFEBCD;
+    text-align:center;
+}
+input[type=button]{
+    border-radius:15px;
+    border:1px solid;
+    background-color:#789;
+}
